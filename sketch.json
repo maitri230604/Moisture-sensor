@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:esp32s3",
+    "name": "ESP32S3 Dev Module",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}

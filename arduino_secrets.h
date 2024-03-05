@@ -1,0 +1,3 @@
+#define SECRET_SSID "Leaf-Netwaves"
+#define SECRET_OPTIONAL_PASS "thd@Leaf"
+#define SECRET_DEVICE_KEY "JISPCN4ODQCQWGZSATYG"
